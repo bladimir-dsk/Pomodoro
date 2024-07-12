@@ -1,7 +1,7 @@
-import { StatusBar } from 'expo-status-bar';
+// import { StatusBar } from 'expo-status-bar';
 import { Image, StyleSheet, Platform, Text, View, Button, SafeAreaView } from 'react-native';
 import { useState } from 'react';
-import Header  from '../../components/Header';
+import Header  from '../components/Header';
 // import { HelloWave } from '@/components/HelloWave';
 // import ParallaxScrollView from '@/components/ParallaxScrollView';
 // import { ThemedText } from '@/components/ThemedText';
